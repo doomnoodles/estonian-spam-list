@@ -1,6 +1,4 @@
 # estonian-spam-list
-Adblock list containing spammy estonian sites
+Adblock list for spammy estonian sites
 
-Copy and paste the following link into your address bar to subscribe to the list or link to sites.txt manually:
-
-```abp://subscribe/?location=https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/main/sites.txt```
+[Click here to subscribe to the list](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/main/sites.txt)
