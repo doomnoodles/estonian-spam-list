@@ -1,0 +1,16 @@
+[Adblock Plus 2.0]
+! Title: Estonian spam-sites list
+! Version: 20220115
+! Expires: 1 days
+! Homepage: https://github.com/doomnoodles/estonian-spam-list
+! License: CC0 1.0 Universal http://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+# kolmnurk kruvikeeraja
+lillikyla.ee
+pihiema.ee
+johnnytartus.ee
+turvalinekoolitee.ee
+nutimeister.ee
+autocash.ee
+pelmeenitrio.ee
+waterful.ee
