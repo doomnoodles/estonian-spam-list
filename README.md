@@ -36,3 +36,4 @@ Easily copy every link on a Google search results page that doesnt contain "goog
   - [ ] too many ```<link rel="alternative">```s in head
   - [ ] non .ee domain if the search term is in estonian(especially .ru and .org)
   - [ ] asks notification permission
+  - [ ] sales@xxx.xx email on page

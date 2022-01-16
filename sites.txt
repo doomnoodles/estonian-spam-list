@@ -5,6 +5,7 @@
 ! Homepage: https://github.com/doomnoodles/estonian-spam-list
 ! License: CC0 1.0 Universal http://creativecommons.org/publicdomain/zero/1.0/legalcode
 
+10steps.org
 55pluss.ee
 aavikuaiaselts.ee
 advance-quality.work
@@ -31,6 +32,7 @@ atso.ee
 autocash.ee
 autolaenuabi24.ee
 autolamutus.ee
+autoostuabi.ee
 autotec.ee
 avaski.ee
 awero.ee
@@ -45,6 +47,7 @@ boa2020.ee
 brand-tehing.news
 brandquality.news
 brandsforsale-market.news
+brandsimple.today
 brasseriedomplein.nl 
 buildingcounsels.com
 buterfly.ee
@@ -55,8 +58,10 @@ casanovaclub.ee
 centerdiscount.news
 centurytop.today
 cheap-start.cam
+chrystus.pl
 cibercactus.com
 cinema-africain.org
+clare-landmark.com
 clebaltic.ee
 clinodii.ee
 clubdeportivoazuqueca.com
@@ -70,6 +75,7 @@ creambutiik.ee
 cs-cart.ee
 cuencaholistichealth.com
 cvety-doma.com
+decoora.com
 decor-modern.com
 deflektor.ee
 deliveryprice.support
@@ -94,6 +100,9 @@ dyt.ee
 e-talupood.ee
 ecospruce.ee
 ecotrans.ee
+ee.liquoraluminumcap.com
+ee.rishengscrew.com
+eesti-metsavara.ee
 eesti-metsavaraabikeworld.ee
 eestipostiindeksid.ee
 eestitulevik.ee
@@ -101,6 +110,8 @@ ehita-maja.info
 ekonet.ee
 el-instrument.ee
 eleganthouse.ee
+elektrimehed.ee
+eluhuvitavaks.ee
 emieco.ee
 emporium-collection.cyou
 ensure.ee
@@ -110,6 +121,7 @@ esemeduus.today
 espatra.ee
 essenta.ee
 euehitus.ee
+eurek-art.com
 everydaywithblondie.ee
 exclusivesdreams.news
 extramarket.news
@@ -142,6 +154,7 @@ gardenjornal.com
 gardens-tips.com
 gardensofgallifrey.com
 gardenwikis.com
+gemmateraapia.ee
 generis.ee
 gfc.ee
 gifts-buyers.news
@@ -150,6 +163,7 @@ global-original.ee
 globalgrocers.ee
 goodideahome.com
 grestore.ee
+growthlittleones.com
 grunemaja.ee
 grynemaja.ee
 gtaveeb.ee
@@ -163,14 +177,18 @@ hhoeesti.ee
 highindex.biz
 hiiukivi.ee
 hiljemalt-ost.cam
+hiljemalt-uus.cyou
 hiljemaltbutiik.news
 hillvital.ee
 hindturul.news
 hingekompass.ee
+hirecars.at
 hirvegrupp.ee
+hivemindoh.org
 hobbyselection.news
 hobikad.ee
 holidaysbeauty.com
+homeinteriorz.com
 homerenovates.com
 horizontlaen.ee
 hotelconsulting.ee
@@ -187,6 +205,7 @@ indoor-flowers.com
 inductor.ee
 ingegnando.net
 insterne.com
+instrumentvistre.ru
 isane.ee
 italmoda.ee
 items-shop.cyou
@@ -234,6 +253,7 @@ kriisitoit.ee
 kupi-shop.news
 kutsutakso.ee
 lai9.ee
+lastevaibad.ee
 lasvaperearst.ee
 latest-money.news
 lauriina.ee
@@ -247,6 +267,7 @@ limitedsky.news
 linkpresent.news
 lisatasubestseller.news
 liveinmidwest.com
+livilla.ee
 lodjapuu.ee
 loloriided.ee
 longma.ee
@@ -260,10 +281,12 @@ m-eng.ru
 m183.ee
 maagiakv.ee
 madid.ee
+madreshoy.com
 magusuni.ee
 maksumus-uus.news
 mamps.ee
 manolete.ee
+manualidadeson.com
 marketbudget.news
 martelinvest.ee
 martretail.news
@@ -284,9 +307,13 @@ mindhuvitab.ee
 minitrading.ee
 minupulm.ee
 mistgrand.news
+mitsubachi.ee
+mlliiga.ee
 mobiilioperaator.ee
 mollycafe.ee
 monarkinsulation.com
+moobo.ee
+mous-design.com
 moyexp.news
 mulgikross.ee
 munt-tehing.today
@@ -330,6 +357,7 @@ osakonduniversaalne.news
 osavadkaed.ee
 ost-turul.cam
 outshowroom.news
+ovuze.ru
 packline.ee
 pajulapoisid.ee
 pakkumine-esemed.cam
@@ -344,6 +372,7 @@ photopodushka.ru
 pick-delivery.news
 pihiema.ee
 pihlatalu.ee
+piigipuu.ee
 pinea.ee
 pizdu.ee
 plusuniques.news
@@ -397,12 +426,14 @@ sireldus.ee
 skilly.ee
 sktammeauto.ee
 skytec-eesti.ee
+slovari.ee
 smartder.ee
 snaps.ee
 snughomedecor.com
 soekyte.ee
 songtre.tv
 soulbodyfusion.ee
+soundserv.ee
 specialmarket.today
 sportonlahe.ee
 starehitus.ee
@@ -420,6 +451,7 @@ tallinnademokraadid.ee
 tallinnalaser.ee
 tallinnec2019.ee
 targaks.ee
+tarkonkinnisvara.ee
 tavomahlad.ee
 tellimuskaubandus.news
 terendus.ee
@@ -427,6 +459,7 @@ tervisekonverents.ee
 texnica-universal.news
 texno-classic.news
 texnobetter.news
+thefruitandflowerbasket.com
 thehouseofchronic.com
 thewelcomeplace.net
 tihendimeister.ee
@@ -447,10 +480,13 @@ ukbeaches.guide
 umera28.ee
 unionfocus.news
 uniquepremier.news
+unistica.com
 universaalnedepoo.news
 urbanminis.ee
 uushind.news
+uxtulevikku.ee
 v8rent.ee
+vabaduse.ee
 valgajahindus.ee
 valgatennis.ee
 valgetorn.ee

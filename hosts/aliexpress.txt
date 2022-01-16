@@ -44,6 +44,8 @@ e-talupood.ee
 ecospruce.ee
 eesti-metsavaraabikeworld.ee
 eestipostiindeksid.ee
+elektrimehed.ee
+eluhuvitavaks.ee
 emporium-collection.cyou
 ensure.ee
 equipmentexlusives.news
@@ -75,6 +77,7 @@ harakka.ee
 helenijutud.ee
 highindex.biz
 hiljemalt-ost.cam
+hiljemalt-uus.cyou
 hiljemaltbutiik.news
 hindturul.news
 hingekompass.ee
@@ -112,6 +115,7 @@ koosost.ee
 krabaja.ee
 kupi-shop.news
 kutsutakso.ee
+lastevaibad.ee
 lasvaperearst.ee
 latest-money.news
 lauriina.ee
@@ -146,8 +150,10 @@ mindhuvitab.ee
 minitrading.ee
 minupulm.ee
 mistgrand.news
+mitsubachi.ee
 mobiilioperaator.ee
 mollycafe.ee
+moobo.ee
 moyexp.news
 mulgikross.ee
 munt-tehing.today
@@ -220,6 +226,7 @@ sireldus.ee
 skilly.ee
 smartder.ee
 soulbodyfusion.ee
+soundserv.ee
 specialmarket.today
 starehitus.ee
 starstep.ee
@@ -268,6 +275,7 @@ www.ainliiva.ee
 www.arklitoa.ee
 www.arvutiweb.ee
 www.autolaenuabi24.ee
+www.autoostuabi.ee
 www.awero.ee
 www.barlova.ee
 www.beautynest.ee
@@ -282,6 +290,7 @@ www.deltacamps.ee
 www.depood.ee
 www.dimba.ee
 www.ecotrans.ee
+www.eesti-metsavara.ee
 www.eestitulevik.ee
 www.ekonet.ee
 www.el-instrument.ee
@@ -296,6 +305,7 @@ www.femirc.ee
 www.filtri6.ee
 www.findesk.ee
 www.foto1.ee
+www.gemmateraapia.ee
 www.grestore.ee
 www.gtaveeb.ee
 www.hhoeesti.ee
@@ -351,6 +361,7 @@ www.peetersauter.ee
 www.pensionikogujad.ee
 www.peozaal.ee
 www.pihlatalu.ee
+www.piigipuu.ee
 www.pinea.ee
 www.profitoode.ee
 www.queal.ee
@@ -362,19 +373,23 @@ www.selitervisekeskus.ee
 www.shokolo.ee
 www.sktammeauto.ee
 www.skytec-eesti.ee
+www.slovari.ee
 www.snaps.ee
 www.soekyte.ee
 www.sportonlahe.ee
 www.strollerexpress.ee
 www.sugarsalon.ee
 www.supersall.ee
+www.tarkonkinnisvara.ee
 www.tavomahlad.ee
 www.tihendimeister.ee
 www.toruabitartu.ee
 www.triohaljastus.ee
 www.troojahobune.ee
 www.ttusk.ee
+www.uxtulevikku.ee
 www.v8rent.ee
+www.vabaduse.ee
 www.valgajahindus.ee
 www.valgatennis.ee
 www.valgetorn.ee

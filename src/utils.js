@@ -91,7 +91,7 @@ export class PuppeteerPool {
     
                 return { startUrl, endUrl };
             } catch(error) {
-                console.error(`Error at ${startUrl}: \n\t${error.message}`);
+                console.error(`Error at ${startUrl} \n\t${error.message}`);
                 this.#visited.push(startUrl);
                 return { startUrl, error: error.message };
             }
