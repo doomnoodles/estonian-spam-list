@@ -5,7 +5,9 @@
   "main": "verify.js",
   "type": "module",
   "scripts": {
-    "verify": "node verify.js"
+    "aliexpress": "node src/detectAliExpress.js",
+    "compile": "node src/compileLists.js",
+    "aliCompile": "npm run aliexpress && npm run compile"
   },
   "author": "doomnoodles",
   "license": "SEE LICENSE IN LICENSE",
