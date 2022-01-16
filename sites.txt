@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Estonian spam sites list
-! Version: 20220115
+! Version: 20220116
 ! Expires: 1 days
 ! Homepage: https://github.com/doomnoodles/estonian-spam-list
 ! License: CC0 1.0 Universal http://creativecommons.org/publicdomain/zero/1.0/legalcode
