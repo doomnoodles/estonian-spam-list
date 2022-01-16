@@ -39,7 +39,7 @@ function isForbiddenUrl(resolvedUrl, forbiddenArray) {
 }
 
 const wwwRegex = /^(www\.)/;
-const etRegex = /^(et\.)/;
+const etRegex = /^(es?t\.)/;
 export function removeRelevantSubdomains(str) {
     return str.replace(wwwRegex, "").replace(etRegex, "");
 }
