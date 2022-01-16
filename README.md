@@ -2,7 +2,9 @@
 Spammy estonian sites adblock list
 
 This repository contains a script to automatically detect Aliexpress redirects and add them to ```hosts.txt```.
+
 Its also possible to manually add entries to  ```hosts.txt```. 
+
 NB: ```sites.txt``` is generated from ```hosts.txt``` and may not be edited.
 
 [Click here to subscribe to the list](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/main/sites.txt&title=Estonian%20spam-sites%20list)
