@@ -16,6 +16,7 @@ Easily copy every link on a Google search results page that doesnt contain "goog
 3. Gather links from google using the bookmarklet and paste them in the file or write one url per line manually
 4. Execute ```npm run verify```
 5. Results are in the ```results``` folder
+6. Use some list deduplicating tool to merge with ```sites.txt```
 
 ## TODO
 - [x] Bookmarklet to copy all links from a google search page
