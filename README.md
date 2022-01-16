@@ -1,7 +1,7 @@
 # estonian-spam-list
 Spammy estonian sites adblock list
 
-[Click here to subscribe to the list](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/main/sites.txt&title=Estonian%20spam-sites%20list)
+[Click here to subscribe to the list](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/main/sites.txt&title=Estonian%20spam%20sites%20list)
 
 ## Google bookmarklet
 Easily copy every link on a Google search results page that doesnt contain "google"
