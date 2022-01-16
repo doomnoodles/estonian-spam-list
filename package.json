@@ -1,0 +1,16 @@
+{
+  "name": "estonian-spam-list",
+  "version": "1.0.0",
+  "description": "Spammy estonian sites adblock list",
+  "main": "verify.js",
+  "type": "module",
+  "scripts": {
+    "verify": "node verify.js"
+  },
+  "author": "doomnoodles",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "node-fetch": "^3.1.0",
+    "puppeteer": "^13.0.1"
+  }
+}
