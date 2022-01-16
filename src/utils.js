@@ -40,8 +40,9 @@ function isForbiddenUrl(resolvedUrl, forbiddenArray) {
 
 const wwwRegex = /^(www\.)/;
 const etRegex = /^(es?t\.)/;
+const mRegex = /^(m\.)/;
 export function removeRelevantSubdomains(str) {
-    return str.replace(wwwRegex, "").replace(etRegex, "");
+    return str.replace(mRegex, "").replace(wwwRegex, "").replace(etRegex, "");
 }
 
 class LoggerArray {
@@ -92,7 +93,7 @@ export class PuppeteerPool {
             } catch(error) {
                 console.error(`Error at ${startUrl}: \n\t${error.message}`);
                 this.#visited.push(startUrl);
-                return { startUrl, error };
+                return { startUrl, error: error.message };
             }
         });
         this.#browser.close();

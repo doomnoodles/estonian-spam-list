@@ -7,11 +7,13 @@
 
 0.0.0.0 aavikuaiaselts.ee
 0.0.0.0 advance-quality.work
+0.0.0.0 agility2021.ee
 0.0.0.0 ainulaadne-hind.cam
 0.0.0.0 ainulaadne-muuk.today
 0.0.0.0 ainulaadneostud.news
 0.0.0.0 ajakiri.info
 0.0.0.0 algus-varu.cam
+0.0.0.0 allahindlus-pakkumine.cam
 0.0.0.0 allahindlus-tooted.cam
 0.0.0.0 allsbest.news
 0.0.0.0 ambiensys.es
@@ -37,11 +39,13 @@
 0.0.0.0 centurytop.today
 0.0.0.0 cheap-start.cam
 0.0.0.0 cibercactus.com
+0.0.0.0 clinodii.ee
 0.0.0.0 cognitivepaper.com
 0.0.0.0 cove.ee
 0.0.0.0 cvety-doma.com
 0.0.0.0 deliveryprice.support
 0.0.0.0 department-product.cam
+0.0.0.0 depoo-allahindlus.cam
 0.0.0.0 devcoff.ee
 0.0.0.0 devireiki.ee
 0.0.0.0 discleaders.news
@@ -59,6 +63,7 @@
 0.0.0.0 emporium-collection.cyou
 0.0.0.0 ensure.ee
 0.0.0.0 equipmentexlusives.news
+0.0.0.0 esemeduus.today
 0.0.0.0 est.cuencaholistichealth.com
 0.0.0.0 est.healthnaturalcare.com
 0.0.0.0 est.kelownaparadigmhealth.com
@@ -138,12 +143,16 @@
 0.0.0.0 gfc.ee
 0.0.0.0 gifts-buyers.news
 0.0.0.0 glinde.ee
+0.0.0.0 global-original.ee
 0.0.0.0 globalgrocers.ee
+0.0.0.0 grunemaja.ee
 0.0.0.0 grynemaja.ee
 0.0.0.0 gurin.ee
 0.0.0.0 gusehitus.ee
+0.0.0.0 harakka.ee
 0.0.0.0 helenijutud.ee
 0.0.0.0 highindex.biz
+0.0.0.0 hiljemalt-ost.cam
 0.0.0.0 hiljemaltbutiik.news
 0.0.0.0 hindturul.news
 0.0.0.0 hingekompass.ee
@@ -172,6 +181,7 @@
 0.0.0.0 kaasaegnehulgimuuk.news
 0.0.0.0 kadakapark.ee
 0.0.0.0 kaidikoppel.ee
+0.0.0.0 kak-svoimi-rukami.com
 0.0.0.0 kalleremm.ee
 0.0.0.0 kangooclub.ee
 0.0.0.0 kasipesu.ee
@@ -190,6 +200,7 @@
 0.0.0.0 lifefactory.news
 0.0.0.0 lillikyla.ee
 0.0.0.0 limitedsky.news
+0.0.0.0 linkpresent.news
 0.0.0.0 lisatasubestseller.news
 0.0.0.0 loloriided.ee
 0.0.0.0 lowcenter.news
@@ -215,6 +226,7 @@
 0.0.0.0 merendo.ee
 0.0.0.0 metusala.ee
 0.0.0.0 mindhuvitab.ee
+0.0.0.0 minitrading.ee
 0.0.0.0 minupulm.ee
 0.0.0.0 mistgrand.news
 0.0.0.0 mobiilioperaator.ee
@@ -226,6 +238,7 @@
 0.0.0.0 mustikaherbal.com
 0.0.0.0 muugisalong-pood.cam
 0.0.0.0 muugisalong-varske.news
+0.0.0.0 muugisalongesemed.news
 0.0.0.0 newfashionintellig.news
 0.0.0.0 newshowroom.news
 0.0.0.0 nolvaku.ee
@@ -234,9 +247,11 @@
 0.0.0.0 nurgaarendus.ee
 0.0.0.0 nutimeister.ee
 0.0.0.0 online-goods.news
+0.0.0.0 onlinegood.news
 0.0.0.0 original-easy.ee
 0.0.0.0 originalbouquets.ee
 0.0.0.0 originexpo.auction
+0.0.0.0 osakond-hiljemalt.cyou
 0.0.0.0 osakond-munt.today
 0.0.0.0 osakonduniversaalne.news
 0.0.0.0 osavadkaed.ee
@@ -251,11 +266,13 @@
 0.0.0.0 pick-delivery.news
 0.0.0.0 pihiema.ee
 0.0.0.0 pizdu.ee
+0.0.0.0 plusuniques.news
 0.0.0.0 podra17.ee
 0.0.0.0 polyterm.ee
 0.0.0.0 pood-kaubandus.cam
 0.0.0.0 pood-vorgus.news
 0.0.0.0 ppsport.ee
+0.0.0.0 pricefor.news
 0.0.0.0 procleaning.ee
 0.0.0.0 productspurchase.news
 0.0.0.0 pur-candles.ee
@@ -266,8 +283,10 @@
 0.0.0.0 raierwood.ee
 0.0.0.0 rainerfoto.ee
 0.0.0.0 rawwa.ee
+0.0.0.0 rebranddelivery.news
 0.0.0.0 respeye.ee
 0.0.0.0 retailuniversal.news
+0.0.0.0 retrohome.ee
 0.0.0.0 reverens.ee
 0.0.0.0 rimon.ee
 0.0.0.0 ristiku22.ee
@@ -278,6 +297,7 @@
 0.0.0.0 saematland.ee
 0.0.0.0 sanderworks.ee
 0.0.0.0 sawgrass-mall.news
+0.0.0.0 shippingextra.news
 0.0.0.0 shopsellers.news
 0.0.0.0 showroomvalue.news
 0.0.0.0 siiraltsinule.ee
@@ -297,6 +317,7 @@
 0.0.0.0 tahtverepaevakeskus.ee
 0.0.0.0 tallinnademokraadid.ee
 0.0.0.0 tallinnalaser.ee
+0.0.0.0 tallinnec2019.ee
 0.0.0.0 targaks.ee
 0.0.0.0 tellimuskaubandus.news
 0.0.0.0 terendus.ee
@@ -304,6 +325,7 @@
 0.0.0.0 texnica-universal.news
 0.0.0.0 texno-classic.news
 0.0.0.0 texnobetter.news
+0.0.0.0 toote-lihtne.cam
 0.0.0.0 tootedkaasaegne.news
 0.0.0.0 totsik.ee
 0.0.0.0 travelerscoffee.ru
@@ -319,11 +341,13 @@
 0.0.0.0 uushind.news
 0.0.0.0 varu-muuk.today
 0.0.0.0 veskitammi.ee
+0.0.0.0 vintagefactory.ee
 0.0.0.0 vocatio.ee
 0.0.0.0 voltaapartments.ee
 0.0.0.0 vorgusmaailmas.news
 0.0.0.0 vsaduidoma.com
 0.0.0.0 waterful.ee
+0.0.0.0 wearsky.news
 0.0.0.0 wellnesstemple.ee
 0.0.0.0 woodmark.ee
 0.0.0.0 world-population.net
@@ -336,6 +360,7 @@
 0.0.0.0 www.awero.ee
 0.0.0.0 www.barlova.ee
 0.0.0.0 www.beautynest.ee
+0.0.0.0 www.boa2020.ee
 0.0.0.0 www.buterfly.ee
 0.0.0.0 www.casanovaclub.ee
 0.0.0.0 www.clebaltic.ee
@@ -348,6 +373,7 @@
 0.0.0.0 www.ecotrans.ee
 0.0.0.0 www.eestitulevik.ee
 0.0.0.0 www.ekonet.ee
+0.0.0.0 www.el-instrument.ee
 0.0.0.0 www.eleganthouse.ee
 0.0.0.0 www.emieco.ee
 0.0.0.0 www.eope.ee
@@ -359,6 +385,7 @@
 0.0.0.0 www.filtri6.ee
 0.0.0.0 www.findesk.ee
 0.0.0.0 www.foto1.ee
+0.0.0.0 www.grestore.ee
 0.0.0.0 www.gtaveeb.ee
 0.0.0.0 www.hhoeesti.ee
 0.0.0.0 www.hiiukivi.ee
@@ -376,6 +403,7 @@
 0.0.0.0 www.kattex.ee
 0.0.0.0 www.katusevabrik.ee
 0.0.0.0 www.kentukid.ee
+0.0.0.0 www.kindlingcracker.ee
 0.0.0.0 www.kirjutajagetter.ee
 0.0.0.0 www.kivimeka.ee
 0.0.0.0 www.koikravimid.ee
@@ -392,6 +420,7 @@
 0.0.0.0 www.manolete.ee
 0.0.0.0 www.matteron.ee
 0.0.0.0 www.megatherm.ee
+0.0.0.0 www.miamadre.ee
 0.0.0.0 www.mustu.ee
 0.0.0.0 www.mylittleparty.ee
 0.0.0.0 www.mywedding.ee
@@ -414,6 +443,7 @@
 0.0.0.0 www.pinea.ee
 0.0.0.0 www.profitoode.ee
 0.0.0.0 www.queal.ee
+0.0.0.0 www.ringimajad.ee
 0.0.0.0 www.riw.ee
 0.0.0.0 www.roamsim.ee
 0.0.0.0 www.saarlasteagility.ee
@@ -421,6 +451,7 @@
 0.0.0.0 www.shokolo.ee
 0.0.0.0 www.sktammeauto.ee
 0.0.0.0 www.skytec-eesti.ee
+0.0.0.0 www.snaps.ee
 0.0.0.0 www.soekyte.ee
 0.0.0.0 www.sportonlahe.ee
 0.0.0.0 www.strollerexpress.ee
@@ -432,6 +463,7 @@
 0.0.0.0 www.triohaljastus.ee
 0.0.0.0 www.troojahobune.ee
 0.0.0.0 www.ttusk.ee
+0.0.0.0 www.v8rent.ee
 0.0.0.0 www.valgajahindus.ee
 0.0.0.0 www.valgatennis.ee
 0.0.0.0 www.valgetorn.ee

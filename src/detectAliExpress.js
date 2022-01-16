@@ -7,7 +7,7 @@ const ALIEXPRESS_HOSTS_PATH = `./hosts/aliexpress.txt`;
 const UNVERIFIED_URLS_PATH = `./links_unverified.txt`;
 const RESULTS_DIR = "./results/";
 
-const DONT_VERIFY_IF_HOST_CONTAINS = ["aliexpress", "google", "youtube", "wikipedia"];
+const DONT_VERIFY_IF_HOST_CONTAINS = ["aliexpress", "google", "youtube", "wikipedia", "eki.ee"];
 const FORBID_REDIRECTS_TO = ["aliexpress.com"];
 
 const TAB_TIMEOUT = 10000; // 10 seconds
@@ -32,10 +32,14 @@ const unverifiedUrls = Array.from(new Set(unverifiedUrlLines.filter(url => {
 
 (unverifiedUrlLines.length !== unverifiedUrls.length) && console.info(`Filtered out ${unverifiedUrlLines.length - unverifiedUrls.length} lines...`);
 
-console.info(`Visiting ${unverifiedUrls.length} urls...\n`);
+console.info(`\nVisited 0/${unverifiedUrls.length} urls`);
 const resolvedUrls = (await new PuppeteerPool(MAX_BROWSER_TABS, TAB_TIMEOUT).visit(unverifiedUrls)).results;
 const { forbiddenUrls, otherUrls } = splitResolvedUrls(resolvedUrls, FORBID_REDIRECTS_TO);
-const suspiciousUrls = otherUrls.filter(resolvedUrl => resolvedUrl.startUrl.startsWith("et.")).map(resolvedUrl => resolvedUrl.startUrl);
+const suspiciousUrls = otherUrls.filter(resolvedUrl => { 
+    const { host, pathname } = new URL(resolvedUrl.startUrl);
+    return host.startsWith("et.") || host.startsWith("est.") || pathname.startsWith("/et/");
+}).map(resolvedUrl => resolvedUrl.startUrl);
+console.info("\n");
 
 const newForbiddenHosts = Array.from(new Set(forbiddenUrls.map(data => new URL(data.startUrl).host)));
 const forbiddenHosts = Array.from(new Set([...oldForbiddenHosts, ...newForbiddenHosts])).sort();
@@ -51,5 +55,5 @@ if(suspiciousUrls.length) {
     writeFileSync(`${RESULTS_DIR}${timestamp}-suspicious.txt`, suspiciousUrls.join("\n"));
 }
 
-console.info(`Aliexpress urls: ${forbiddenUrls.length}/${resolvedUrls.length}`);
+console.info(`Aliexpress urls: ${forbiddenUrls.length}/${resolvedUrls.length}\n`);
 console.info("Done.")

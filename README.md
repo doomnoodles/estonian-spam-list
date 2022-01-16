@@ -32,3 +32,7 @@ Easily copy every link on a Google search results page that doesnt contain "goog
 - [ ] Improve workflow/reliability
 - [x] Sites that look like et.xxxx.info should be made into a list that can be manually reviewed
 - [x] Whitelist site if host contains aliexpress
+- [ ] Better suspicious site detector
+  - [ ] too many ```<link rel="alternative">```s in head
+  - [ ] non .ee domain if the search term is in estonian(especially .ru and .org)
+  - [ ] asks notification permission

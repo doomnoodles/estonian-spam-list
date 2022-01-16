@@ -1,9 +1,11 @@
 aavikuaiaselts.ee
 advance-quality.work
+agility2021.ee
 ainulaadne-hind.cam
 ainulaadne-muuk.today
 ainulaadneostud.news
 algus-varu.cam
+allahindlus-pakkumine.cam
 allahindlus-tooted.cam
 allsbest.news
 ambiensys.es
@@ -25,9 +27,11 @@ carmita.ee
 centerdiscount.news
 centurytop.today
 cheap-start.cam
+clinodii.ee
 cove.ee
 deliveryprice.support
 department-product.cam
+depoo-allahindlus.cam
 devcoff.ee
 devireiki.ee
 discleaders.news
@@ -43,6 +47,7 @@ eestipostiindeksid.ee
 emporium-collection.cyou
 ensure.ee
 equipmentexlusives.news
+esemeduus.today
 euehitus.ee
 exclusivesdreams.news
 extramarket.news
@@ -62,11 +67,14 @@ generis.ee
 gfc.ee
 gifts-buyers.news
 glinde.ee
+global-original.ee
 globalgrocers.ee
 gurin.ee
 gusehitus.ee
+harakka.ee
 helenijutud.ee
 highindex.biz
+hiljemalt-ost.cam
 hiljemaltbutiik.news
 hindturul.news
 hingekompass.ee
@@ -110,6 +118,7 @@ lauriina.ee
 lifefactory.news
 lillikyla.ee
 limitedsky.news
+linkpresent.news
 lisatasubestseller.news
 loloriided.ee
 lowcenter.news
@@ -134,6 +143,7 @@ meemagasin.ee
 merendo.ee
 metusala.ee
 mindhuvitab.ee
+minitrading.ee
 minupulm.ee
 mistgrand.news
 mobiilioperaator.ee
@@ -144,6 +154,7 @@ munt-tehing.today
 muntesemed.news
 muugisalong-pood.cam
 muugisalong-varske.news
+muugisalongesemed.news
 newfashionintellig.news
 newshowroom.news
 nolvaku.ee
@@ -152,9 +163,11 @@ nuffi.ee
 nurgaarendus.ee
 nutimeister.ee
 online-goods.news
+onlinegood.news
 original-easy.ee
 originalbouquets.ee
 originexpo.auction
+osakond-hiljemalt.cyou
 osakond-munt.today
 osakonduniversaalne.news
 osavadkaed.ee
@@ -168,11 +181,13 @@ pfmask.ee
 pick-delivery.news
 pihiema.ee
 pizdu.ee
+plusuniques.news
 podra17.ee
 polyterm.ee
 pood-kaubandus.cam
 pood-vorgus.news
 ppsport.ee
+pricefor.news
 procleaning.ee
 productspurchase.news
 purhouse.ee
@@ -182,8 +197,10 @@ rahni13.ee
 raierwood.ee
 rainerfoto.ee
 rawwa.ee
+rebranddelivery.news
 respeye.ee
 retailuniversal.news
+retrohome.ee
 reverens.ee
 rimon.ee
 ristiku22.ee
@@ -194,6 +211,7 @@ saatmine-ost.cam
 saematland.ee
 sanderworks.ee
 sawgrass-mall.news
+shippingextra.news
 shopsellers.news
 showroomvalue.news
 siiraltsinule.ee
@@ -213,6 +231,7 @@ tagalatoetus.ee
 tahtverepaevakeskus.ee
 tallinnademokraadid.ee
 tallinnalaser.ee
+tallinnec2019.ee
 targaks.ee
 tellimuskaubandus.news
 terendus.ee
@@ -220,6 +239,7 @@ tervisekonverents.ee
 texnica-universal.news
 texno-classic.news
 texnobetter.news
+toote-lihtne.cam
 tootedkaasaegne.news
 totsik.ee
 truby.ee
@@ -234,10 +254,12 @@ urbanminis.ee
 uushind.news
 varu-muuk.today
 veskitammi.ee
+vintagefactory.ee
 vocatio.ee
 voltaapartments.ee
 vorgusmaailmas.news
 waterful.ee
+wearsky.news
 wellnesstemple.ee
 woodmark.ee
 www.55pluss.ee
@@ -249,6 +271,7 @@ www.autolaenuabi24.ee
 www.awero.ee
 www.barlova.ee
 www.beautynest.ee
+www.boa2020.ee
 www.buterfly.ee
 www.casanovaclub.ee
 www.clebaltic.ee
@@ -261,6 +284,7 @@ www.dimba.ee
 www.ecotrans.ee
 www.eestitulevik.ee
 www.ekonet.ee
+www.el-instrument.ee
 www.eleganthouse.ee
 www.emieco.ee
 www.eope.ee
@@ -272,6 +296,7 @@ www.femirc.ee
 www.filtri6.ee
 www.findesk.ee
 www.foto1.ee
+www.grestore.ee
 www.gtaveeb.ee
 www.hhoeesti.ee
 www.hiiukivi.ee
@@ -289,6 +314,7 @@ www.kaliiber.ee
 www.kattex.ee
 www.katusevabrik.ee
 www.kentukid.ee
+www.kindlingcracker.ee
 www.kirjutajagetter.ee
 www.kivimeka.ee
 www.koikravimid.ee
@@ -305,6 +331,7 @@ www.lxinteriors.ee
 www.manolete.ee
 www.matteron.ee
 www.megatherm.ee
+www.miamadre.ee
 www.mustu.ee
 www.mylittleparty.ee
 www.mywedding.ee
@@ -327,6 +354,7 @@ www.pihlatalu.ee
 www.pinea.ee
 www.profitoode.ee
 www.queal.ee
+www.ringimajad.ee
 www.riw.ee
 www.roamsim.ee
 www.saarlasteagility.ee
@@ -334,6 +362,7 @@ www.selitervisekeskus.ee
 www.shokolo.ee
 www.sktammeauto.ee
 www.skytec-eesti.ee
+www.snaps.ee
 www.soekyte.ee
 www.sportonlahe.ee
 www.strollerexpress.ee
@@ -345,6 +374,7 @@ www.toruabitartu.ee
 www.triohaljastus.ee
 www.troojahobune.ee
 www.ttusk.ee
+www.v8rent.ee
 www.valgajahindus.ee
 www.valgatennis.ee
 www.valgetorn.ee
