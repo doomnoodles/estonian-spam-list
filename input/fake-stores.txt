@@ -13,6 +13,7 @@ alluce.ee
 ambiensys.es
 ameliamangumaa.ee
 andratoit.ee
+antisept.ee
 appikene.ee
 ask-goods.news
 atso.ee
@@ -80,6 +81,7 @@ generis.ee
 gfc.ee
 gifts-buyers.news
 glinde.ee
+globaalne-brand.cam
 global-original.ee
 globalgrocers.ee
 grunemaja.ee
@@ -151,6 +153,7 @@ leggingsslim.ee
 lifefactory.news
 lillikyla.ee
 limitedsky.news
+limitedweek.news
 linkpresent.news
 lisatasubestseller.news
 livilla.ee
@@ -192,6 +195,7 @@ mistgrand.news
 mitsubachi.ee
 mlliiga.ee
 mobiilioperaator.ee
+modniydriver.news
 mollycafe.ee
 moobo.ee
 moyexp.news
@@ -207,6 +211,7 @@ nicopaz.ee
 nimeke.ee
 nolvaku.ee
 nordestmoobel.ee
+nowfirst.support
 nuffi.ee
 nurgaarendus.ee
 nutimeister.ee
@@ -295,6 +300,7 @@ tervitused.ee
 texnica-universal.news
 texno-classic.news
 texnobetter.news
+tnu.ee
 toitumetargalt.ee
 toote-lihtne.cam
 tootedkaasaegne.news
@@ -481,6 +487,8 @@ www.villamehed.ee
 www.wagwan.ee
 www.withyou.ee
 www.wsw.im
+www.zizterz.ee
+yesweb.ee
 zabor.ee
 zapzap.ee
 zizters.ee

@@ -1,7 +1,7 @@
 import { getFileLines } from "./utils.js";
 import { readdirSync, writeFileSync } from "fs";
 
-console.info("Sorting hostlists...\n");
+console.info("Sorting input lists...\n");
 readdirSync("./input", "utf8").forEach(filename => {
     console.info(`\t${filename}`);
     const lines = getFileLines(`./input/${filename}`);

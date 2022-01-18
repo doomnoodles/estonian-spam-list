@@ -8,7 +8,7 @@ const FAKE_STORES_PATH = `./input/fake-stores.txt`;
 const UNVERIFIED_URLS_PATH = `./links_unverified.txt`;
 const RESULTS_DIR = "./results/";
 
-const DONT_VERIFY_IF_HOST_CONTAINS = ["aliexpress", "google", "youtube", "wikipedia", "eki.ee"];
+const DONT_VERIFY_IF_HOST_CONTAINS = ["aliexpress", "google", "youtube", "wikipedia", "eki.ee", "facebook", "instagram"];
 const FORBID_REDIRECTS_TO = ["aliexpress.com"];
 
 const TAB_TIMEOUT = 10000; // 10 seconds
