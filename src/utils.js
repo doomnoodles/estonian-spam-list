@@ -1,7 +1,11 @@
 import { readFileSync, readdirSync } from "fs";
 
 export function compileHosts() {
-    return new Set(readdirSync("./input", "utf8").flatMap(filename => getFileLines(`./input/${filename}`)));
+    return new Set(readdirSync("./input/hosts/", "utf8").flatMap(filename => getFileLines(`./input/hosts/${filename}`)));
+}
+
+export function compileCustomFilters() {
+    return new Set(readdirSync("./input/filters/", "utf8").flatMap(filename => getFileLines(`./input/filters/${filename}`)));
 }
 
 export function getFileLines(filename) {

@@ -1,3 +1,4 @@
+haaga-helia.ee
 isc.ee
 jazztime.ee
 kalesy.ee
@@ -13,6 +14,7 @@ koleri2.ee
 kuldmokk.ee
 lepland.ee
 linnaidee.ee
+lmfysiot.ee
 loovharidus.ee
 loovsaarlane.ee
 lovl.ee
@@ -27,3 +29,10 @@ nommetennis.ee
 paikusemesimumm.ee
 pargiresto.ee
 parilasteaed.ee
+psoriaasikeskus.ee
+rsagroup.ee
+rulaliit.ee
+samm-sammult.ee
+stalkerfestival.ee
+toukatakka.ee
+ummacar.ee

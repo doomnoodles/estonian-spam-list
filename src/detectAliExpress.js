@@ -4,7 +4,7 @@ import { PuppeteerPool } from "./utilsPuppeteer.js";
 
 const SKIP_KNOWN_HOSTS = true;
 
-const FAKE_STORES_PATH = `./input/fake-stores.txt`;
+const FAKE_STORES_PATH = `./input/hosts/fake-stores.txt`;
 const UNVERIFIED_URLS_PATH = `./links_unverified.txt`;
 const RESULTS_DIR = "./results/";
 
