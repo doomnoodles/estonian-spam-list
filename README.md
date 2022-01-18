@@ -1,15 +1,24 @@
 # estonian-spam-list
-An adblock list and a hostsfile containing spammy estonian sites.
+Adblock filter list + hostsfile for blocking spammy estonian sites.
 
-Add new entries to relevant files in the ```input``` directory.
+Sites in the list mostly fall under the following categories:
+1. Fake web-stores (which usually redirect to aliexpress)
+2. Autotranslated SEO sites
+3. Phishing / malware / notifications
 
 [Click here to subscribe to the list](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/main/output/sites.txt&title=Estonian%20spam-sites%20list)
 
-## How to compile the lists
+## Contributing
+Easy: Just make a pull request with links that should be added to the list.
 
-1. (only once) Execute ```npm install```
-2. Execute ```npm run sort``` and ```npm run compile```
-3. Results are stored in ```output/hosts.txt``` and ```output/sites.txt```
+Technical:
+1. Add new entries to relevant files in the ```input``` directory.
+2. (optional, requires nodejs) Compile the list, results are in ```output``` folder.
+```sh
+npm install
+npm run sort
+npm run compile
+```
 
 ## Aliexpress detection workflow
 It is possible to detect if sites redirect to aliexpress and automatically add them to the list
