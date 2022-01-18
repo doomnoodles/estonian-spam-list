@@ -60,6 +60,7 @@ emporium-collection.cyou
 ensure.ee
 equipmentexlusives.news
 esemeduus.today
+et.topshopon.com
 euehitus.ee
 euro-aknad.ee
 exclusivesdreams.news
@@ -77,6 +78,7 @@ fresh-product.cam
 freshlife.ee
 funnygifts.ee
 gadjetfactory.today
+ganja.ee
 generis.ee
 gfc.ee
 gifts-buyers.news
@@ -231,6 +233,7 @@ ost-turul.cam
 outshowroom.news
 pajulapoisid.ee
 pakkumine-esemed.cam
+parkertop.plus
 pelmeenitrio.ee
 peregareisile.ee
 perekodumasinad.ee
@@ -250,6 +253,7 @@ procleaning.ee
 productspurchase.news
 pronksiapartments.ee
 pur-candles.ee
+purelovehomespa.ee
 purhouse.ee
 queenworld.news
 raha-jaekaubandus.today
@@ -306,6 +310,7 @@ toote-lihtne.cam
 tootedkaasaegne.news
 totsik.ee
 truby.ee
+tuisufoto.ee
 turullihtne.news
 turvalinekoolitee.ee
 udachnolux.news
@@ -366,6 +371,7 @@ www.femirc.ee
 www.filtri6.ee
 www.findesk.ee
 www.foto1.ee
+www.fresco.ee
 www.gemmateraapia.ee
 www.grestore.ee
 www.gtaveeb.ee
@@ -469,6 +475,7 @@ www.tarkonkinnisvara.ee
 www.tavomahlad.ee
 www.tihendimeister.ee
 www.toruabitartu.ee
+www.tranemgrupp.ee
 www.triohaljastus.ee
 www.troojahobune.ee
 www.ttusk.ee
