@@ -23,7 +23,7 @@ It is possible to detect if sites redirect to aliexpress and automatically add t
 ## Bookmarklet
 Easily copy every link on a Google search results page that doesnt contain "google"
 
-1. Copy the code from [bookmarklet_google.js](https://github.com/doomnoodles/estonian-spam-list/blob/main/bookmarklet_google.js)
+1. Copy the code from [bookmarklet_copy_urls.js](https://github.com/doomnoodles/estonian-spam-list/blob/main/bookmarklet_copy_urls.js) or [bookmarklet_copy_hosts.js](https://github.com/doomnoodles/estonian-spam-list/blob/main/bookmarklet_copy_hosts.js)
 2. Create a new bookmark in your browser. In the URL field, type  ```javascript:``` and then right after that paste the code
 
 ## TODO

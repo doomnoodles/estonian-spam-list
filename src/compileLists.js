@@ -24,13 +24,13 @@ const HOSTSFILE_HEADER = `# Estonian spam list version ${VERSION}
 const HOSTS_LINE_START = "0.0.0.0 ";
 
 console.info(`Started adblock list compilation...\n`);
-const hosts = Array.from(new Set(readdirSync("./hosts", "utf8").flatMap(filename => getFileLines(`./hosts/${filename}`)))).sort();
+const hosts = Array.from(new Set(readdirSync("./input", "utf8").flatMap(filename => getFileLines(`./input/${filename}`)))).sort();
 
 console.info(`Writing ${hosts.length} hosts into hosts.txt`);
-writeFileSync(`hosts.txt`, HOSTSFILE_HEADER + hosts.map(host => HOSTS_LINE_START + host).join("\n"));
+writeFileSync(`./output/hosts.txt`, HOSTSFILE_HEADER + hosts.map(host => HOSTS_LINE_START + host).join("\n") + "\n");
 
 const adblockHosts = Array.from(new Set(hosts.map(host => removeRelevantSubdomains(host)))).sort();
 console.info(`Writing ${adblockHosts.length} hosts into sites.txt`);
-writeFileSync(`sites.txt`, ADBLOCK_FILTER_HEADER + adblockHosts.join("\n"));
+writeFileSync(`./output/sites.txt`, ADBLOCK_FILTER_HEADER + adblockHosts.join("\n") + "\n");
 
 console.info("\nList compilation done");

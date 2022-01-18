@@ -3,7 +3,7 @@ import { getFileLines, PuppeteerPool, splitResolvedUrls } from "./utils.js";
 
 const SKIP_KNOWN_HOSTS = true;
 
-const ALIEXPRESS_HOSTS_PATH = `./hosts/fake-store.txt`;
+const ALIEXPRESS_HOSTS_PATH = `./input/fake-stores.txt`;
 const UNVERIFIED_URLS_PATH = `./links_unverified.txt`;
 const RESULTS_DIR = "./results/";
 
