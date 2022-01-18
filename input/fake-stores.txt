@@ -39,8 +39,14 @@ discleaders.news
 discounts-bests.news
 dntrans.ee
 docservice.ee
+oldtownapartment.ee
+www.omaveeb.ee
 dream-shop.ee
 dyt.ee
+optigon.ee
+www.optola.ee
+www.paaborprojekt.ee
+www.para.ee
 e-talupood.ee
 ecospruce.ee
 eesti-metsavaraabikeworld.ee

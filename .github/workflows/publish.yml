@@ -1,0 +1,27 @@
+name: publish
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Set up node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '16.x'
+          registry-url: 'https://registry.npmjs.org/'
+      - name: Install mandatory dependencies
+        run: npm ci --no-optional
+      - name: Compile the lists
+        run: npm run compile
+      - name: Publish to Github
+        uses: softprops/action-gh-release@v1
+        with:
+          files: output/**/*
+          

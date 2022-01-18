@@ -12,8 +12,8 @@
   },
   "author": "doomnoodles",
   "license": "SEE LICENSE IN LICENSE",
-  "dependencies": {
-    "@supercharge/promise-pool": "^2.1.0",
-    "puppeteer": "^13.0.1"
+  "optionalDependencies": {
+    "@supercharge/promise-pool": "^2.x",
+    "puppeteer": "^13.x"
   }
 }
