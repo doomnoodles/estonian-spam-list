@@ -3,7 +3,7 @@ An adblock list and a hostsfile containing spammy estonian sites.
 
 Add new entries to relevant files in the ```input``` directory.
 
-[Click here to subscribe to the list](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/blob/main/output/sites.txt&title=Estonian%20spam-sites%20list)
+[Click here to subscribe to the list](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/main/output/sites.txt&title=Estonian%20spam-sites%20list)
 
 ## How to compile the lists
 
