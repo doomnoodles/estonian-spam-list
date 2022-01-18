@@ -452,6 +452,7 @@ www.pihlatalu.ee
 www.piigipuu.ee
 www.pinea.ee
 www.profitoode.ee
+www.publicspeaking.ee
 www.queal.ee
 www.ringimajad.ee
 www.riw.ee
@@ -493,7 +494,6 @@ www.viimsifotostuudio.ee
 www.villamehed.ee
 www.wagwan.ee
 www.withyou.ee
-www.publicspeaking.ee
 www.wsw.im
 www.zizterz.ee
 yesweb.ee
