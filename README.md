@@ -13,7 +13,7 @@ Direct links to files:
 [hosts](https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/main/output/hosts.txt).
 
 ## Contributing
-Easy: Just make a pull request with links that should be added to the list.
+Easy: Just make an issue in this repository that contains links that should be added to the list.
 
 Technical:
 1. Add new entries to relevant files in the ```input``` directory
@@ -22,6 +22,7 @@ Technical:
 npm run sort
 npm run compile
 ```
+3. Create pull request
 
 ## Aliexpress detection workflow
 It is possible to detect if sites redirect to aliexpress and automatically add them to the list
