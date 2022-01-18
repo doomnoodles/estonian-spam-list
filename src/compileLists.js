@@ -1,4 +1,4 @@
-import { readdirSync, writeFileSync } from "fs";
+import { readdirSync, writeFileSync, existsSync, mkdirSync } from "fs";
 import { getFileLines, removeRelevantSubdomains } from "./utils.js";
 
 const d = new Date();
@@ -22,6 +22,8 @@ const HOSTSFILE_HEADER = `# Estonian spam list version ${VERSION}
 `;
 
 const HOSTS_LINE_START = "0.0.0.0 ";
+
+!existsSync("./output/") && mkdirSync("./output/", { recursive: true });
 
 console.info(`Started adblock list compilation...\n`);
 const hosts = Array.from(new Set(readdirSync("./input", "utf8").flatMap(filename => getFileLines(`./input/${filename}`)))).sort();
