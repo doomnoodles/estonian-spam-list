@@ -1,15 +1,15 @@
 # estonian-spam-list
 An adblock list and a hostsfile containing spammy estonian sites.
 
-Add new entries to relevant files in the ```hosts``` directory.
+Add new entries to relevant files in the ```input``` directory.
 
-[Click here to subscribe to the list](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/main/sites.txt&title=Estonian%20spam-sites%20list)
+[Click here to subscribe to the list](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/blob/main/output/sites.txt&title=Estonian%20spam-sites%20list)
 
 ## How to compile the lists
 
 1. (only once) Execute ```npm install```
-2. Execute ```npm run compile```
-3. Results are stored in ```hosts.txt``` and ```sites.txt```
+2. Execute ```npm run sort``` and ```npm run compile```
+3. Results are stored in ```output/hosts.txt``` and ```output/sites.txt```
 
 ## Aliexpress detection workflow
 It is possible to detect if sites redirect to aliexpress and automatically add them to the list
@@ -17,8 +17,8 @@ It is possible to detect if sites redirect to aliexpress and automatically add t
 1. (only once) Execute ```npm install```
 2. Create a file named ```unverified_links.txt```
 3. Gather links from google using the bookmarklet and paste them in the file or write one url per line manually
-4. Execute ```npm run aliexpress```
-5. Run results are in the ```results``` folder, and the results are merged with ```hosts/aliexpress.txt```
+4. Execute ```npm run scrape```
+5. Run results are in the ```results``` folder, and the results are merged with ```input/fake-stores.txt```
 
 ## Bookmarklet
 Easily copy every link on a Google search results page that doesnt contain "google"
