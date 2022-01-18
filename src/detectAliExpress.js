@@ -1,5 +1,6 @@
 import { writeFileSync, existsSync, mkdirSync } from "fs";
 import { getFileLines, PuppeteerPool, splitResolvedUrls } from "./utils.js";
+import { PuppeteerPool } from "./utilsPuppeteer";
 
 const SKIP_KNOWN_HOSTS = true;
 
