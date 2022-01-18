@@ -5,9 +5,10 @@
   "main": "verify.js",
   "type": "module",
   "scripts": {
-    "aliexpress": "node src/detectAliExpress.js",
+    "scrape": "node src/detectAliExpress.js",
+    "sort": "node src/sortLists.js",
     "compile": "node src/compileLists.js",
-    "aliCompile": "npm run aliexpress && npm run compile"
+    "full": "npm run scrape && npm run sort && npm run compile"
   },
   "author": "doomnoodles",
   "license": "SEE LICENSE IN LICENSE",

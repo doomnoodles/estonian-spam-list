@@ -23,7 +23,7 @@ const HOSTSFILE_HEADER = `# Estonian spam list version ${VERSION}
 
 const HOSTS_LINE_START = "0.0.0.0 ";
 
-console.info(`Started adblock list compilation...`);
+console.info(`Started adblock list compilation...\n`);
 const hosts = Array.from(new Set(readdirSync("./hosts", "utf8").flatMap(filename => getFileLines(`./hosts/${filename}`)))).sort();
 
 console.info(`Writing ${hosts.length} hosts into hosts.txt`);
@@ -33,4 +33,4 @@ const adblockHosts = Array.from(new Set(hosts.map(host => removeRelevantSubdomai
 console.info(`Writing ${adblockHosts.length} hosts into sites.txt`);
 writeFileSync(`sites.txt`, ADBLOCK_FILTER_HEADER + adblockHosts.join("\n"));
 
-console.info("Done.")
+console.info("\nList compilation done");
