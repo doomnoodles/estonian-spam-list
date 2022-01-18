@@ -6,11 +6,11 @@ Sites in the list mostly fall under the following categories:
 2. Autotranslated SEO sites
 3. Phishing / malware / notifications
 
-[Click here to subscribe to the list (uBlock origin, adblock (plus), ...)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/main/output/sites.txt&title=Estonian%20spam-sites%20list)
+[Click here to subscribe to the list (uBlock origin, adblock (plus), ...)](https://subscribe.adblockplus.org/?location=https://github.com/doomnoodles/estonian-spam-list/releases/latest/download/sites.txt&title=Estonian%20spam-sites%20list)
 
 Direct links to files:
-[filter](https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/main/output/sites.txt) and 
-[hosts](https://raw.githubusercontent.com/doomnoodles/estonian-spam-list/main/output/hosts.txt).
+[filter](https://github.com/doomnoodles/estonian-spam-list/releases/latest/download/sites.txt) and 
+[hosts](https://github.com/doomnoodles/estonian-spam-list/releases/latest/download/hosts.txt).
 
 ## Contributing
 Easy: Just make an issue in this repository that contains links that should be added to the list.
