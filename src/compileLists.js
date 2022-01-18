@@ -1,5 +1,5 @@
-import { readdirSync, writeFileSync, existsSync, mkdirSync } from "fs";
-import { getFileLines, removeRelevantSubdomains } from "./utils.js";
+import { writeFileSync, existsSync, mkdirSync } from "fs";
+import { compileHosts, removeRelevantSubdomains } from "./utils.js";
 
 const d = new Date();
 const VERSION = `${d.getFullYear()}${(d.getMonth() + 1).toString().padStart(2, "0")}${(d.getDate()).toString().padStart(2, "0")}`
@@ -26,7 +26,7 @@ const HOSTS_LINE_START = "0.0.0.0 ";
 !existsSync("./output/") && mkdirSync("./output/", { recursive: true });
 
 console.info(`Started adblock list compilation...\n`);
-const hosts = Array.from(new Set(readdirSync("./input", "utf8").flatMap(filename => getFileLines(`./input/${filename}`)))).sort();
+const hosts = Array.from(compileHosts()).sort();
 
 console.info(`Writing ${hosts.length} hosts into hosts.txt`);
 writeFileSync(`./output/hosts.txt`, HOSTSFILE_HEADER + hosts.map(host => HOSTS_LINE_START + host).join("\n") + "\n");

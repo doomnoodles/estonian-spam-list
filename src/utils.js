@@ -1,4 +1,8 @@
-import { readFileSync } from "fs";
+import { readFileSync, readdirSync } from "fs";
+
+export function compileHosts() {
+    return new Set(readdirSync("./input", "utf8").flatMap(filename => getFileLines(`./input/${filename}`)));
+}
 
 export function getFileLines(filename) {
     try {
