@@ -11,33 +11,3 @@ Sites in the list mostly fall under the following categories:
 Direct links to files:
 [filter](https://github.com/doomnoodles/estonian-spam-list/releases/latest/download/sites.txt) and 
 [hosts](https://github.com/doomnoodles/estonian-spam-list/releases/latest/download/hosts.txt).
-
-## Contributing
-Easy: Just make an issue in this repository that contains links that should be added to the list.
-
-Technical:
-1. Add new entries to relevant files in the ```input``` directory
-2. (optional, requires nodejs) Compile the list, results are in ```output``` folder
-```sh
-npm run sort
-npm run compile
-```
-3. Create pull request
-
-## Aliexpress detection workflow
-It is possible to detect if sites redirect to aliexpress and automatically add them to the list
-
-1. (only once) Run ```npm install```
-2. Create a file named ```unverified_links.txt```
-3. Gather links from google using the bookmarklet and paste them in the file
-4. Run ```npm run scrape```
-5. Results are merged with ```input/fake-stores.txt```, debug information in ```results``` folder
-
-## Bookmarklet
-Easily copy every link on a Google search results page that doesnt contain "google"
-
-1. Copy the code from [bookmarklet_copy_urls.js](https://github.com/doomnoodles/estonian-spam-list/blob/main/bookmarklet_copy_urls.js) or [bookmarklet_copy_hosts.js](https://github.com/doomnoodles/estonian-spam-list/blob/main/bookmarklet_copy_hosts.js)
-2. Create a new bookmark in your browser. In the URL field, type  ```javascript:``` and then right after that paste the code
-
-## TODO
-- [ ] Improve workflow/reliability
